@@ -10,7 +10,7 @@
 - **Python Web Frameworks**: Flask, Django,FastAPI - Used for building efficient web applications and APIs
 - **CI/CD & DevOps**: Jenkins, GitHub Actions, AWS CodePipeline, Docker
 - **Cloud Services**: AWS (EC2, S3, Lambda, DynamoDB), AWS SageMaker for ML model deployment
-- **Databases**: MongoDB, MySQL
+- **Databases**: Postgralsql, MySQL
 - **Tools**: Git, Docker, Jenkins, Postman
 
 
