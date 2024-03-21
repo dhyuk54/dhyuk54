@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [donghyuk]!
+# Hi there 👋, I'm donghyuk!
 
 ## 👨‍💻 About Me:
 - 🎓 I’m currently learning [DL and ML].
