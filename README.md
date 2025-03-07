@@ -5,10 +5,10 @@
 - 💡 I like to explore new technologies and develop software solutions.
 
 ## 🛠 Technologies and Tools:
-- **Languages**: Python (focused on Machine Learning, Deep Learning, and Web Development), JavaScript, Java
+- **Languages**: Python (focused on Machine Learning, Deep Learning, and Web Development)
 - **Machine Learning / Deep Learning Libraries**: TensorFlow, PyTorch, scikit-learn
 - **Python Web Frameworks**: Flask, Django,FastAPI - Used for building efficient web applications and APIs
-- **CI/CD & DevOps**: Jenkins, GitHub Actions, AWS CodePipeline, Docker
+- **CI/CD & DevOps**: Jenkins, GitHub Actions, AWS CodePipeline, Docker,Mlops
 - **Cloud Services**: AWS (EC2, S3, Lambda, DynamoDB), AWS SageMaker for ML model deployment
 - **Databases**: Postgralsql, MySQL
 - **Tools**: Git, Docker, Postman
