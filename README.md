@@ -22,4 +22,9 @@
 
 ## 📫 How to Reach Me:
 - Email: dhyuk23@gmail.com
+## 🏆 AWS Certifications
+
+![AWS DAS](https://raw.githubusercontent.com/dhyuk54/dhyuk54/main/aws%20das.jpg)
+![AWS MLS](https://raw.githubusercontent.com/dhyuk54/dhyuk54/main/aws%20mls.png)
+![AWS SAA](https://raw.githubusercontent.com/dhyuk54/dhyuk54/main/aws%20saa.jpg)
 
