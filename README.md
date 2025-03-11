@@ -1,8 +1,11 @@
 # Hi there 👋, I'm donghyuk!
 
 ## 👨‍💻 About Me:
-- 🎓 I’m currently learning DL and ML.
-- 💡 I like to explore new technologies and develop software solutions.
+- 🎓 Solid foundation in Deep Learning and Machine Learning, with hands-on experience in building and deploying models.  
+- 💡 Passionate about exploring cutting-edge AI technologies and developing innovative software solutions.  
+- 💡 Enthusiastic about discovering new technologies and building impactful software solutions.  
+
+
 
 ## 🛠 Technologies and Tools:
 - **Languages**: Python (focused on Machine Learning, Deep Learning, and Web Development)
